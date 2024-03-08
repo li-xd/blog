@@ -1,6 +1,8 @@
 ---
 share: true
-title: 本地运行 AI
+title: "本地运行 AI"
+description: "Consider that for a moment: everything we see around us is assumed to have had a cause and is contingent upon."
+date: May 4 2021
 ---
 
 
