@@ -1,5 +1,27 @@
 ---
 share: true
+path: posts/本地运行 AI 工具
+links:
+  mdlinks: false
+  convert: true
+  internals: false
+  nonShared: false
+embed:
+  send: false
+  remove: keep
+  char: ->
+attachment:
+  send: true
+  folder: 
+dataview: true
+hardBreak: false
+repo:
+  owner: li-xd
+  repo: blog
+  branch: main
+  autoclean: true
+copylink:
+  base: https://blog.lixd.club
 ---
 
 
